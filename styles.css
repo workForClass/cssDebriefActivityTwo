@@ -9,6 +9,10 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
+main {
+  margin-left: 50px;
+}
+
 header {
   text-align: center;
 }
